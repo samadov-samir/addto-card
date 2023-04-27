@@ -1,0 +1,18 @@
+.basket{
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40%;
+    background-color: midnightblue;
+    color: white;
+    position: relative;
+    top: 20px;
+}
+.basketBody{
+    top: 90px;
+    right: 40px;
+}
+.description{
+    margin: 30px;
+    color: red;
+}
